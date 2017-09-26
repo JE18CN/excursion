@@ -1,0 +1,27 @@
+html{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.pagetitle {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+.sectiontitle{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.sectiontext{
+  font-size: 21px;
+  color: gray;
+}
+
+.adlink {
+  font-size: 16px;
+  color: aquamarine;
+}
